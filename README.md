@@ -13,4 +13,4 @@ A dashboard showing previous activity can be viewed by clicking on the dasboard 
 HTML, CSS, JavaScript, MongoDB, Mongoose.js, Node.js, Express.js
 
 #Deployed Application
-https://dashboard.heroku.com/apps/mighty-cliffs-20649
+https://mighty-cliffs-20649.herokuapp.com/
